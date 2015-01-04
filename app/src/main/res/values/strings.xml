@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioInputTemplate</string>
+    <string name="say_glasswaretemplate">Magic Tune</string>
+    <string name="glass_voice_prompt">Say Template Test to trigger the glassware</string>
+    <string name="stop">STOP</string>
+    <string name="tts">TTS</string>
+    <string name="asr">ASR</string>
+    <string name="tune">TUNE</string>
+</resources>
